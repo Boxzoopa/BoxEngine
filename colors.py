@@ -1,0 +1,13 @@
+## colors
+RED = (255, 0, 0)
+GREEN = (255, 0, 0)
+BLUE = (0, 0, 255)
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+BOX_RED = (253, 18, 57)
+BOX_ORANGE = (251, 86, 7)
+BOX_YELLOW = (255, 190, 11)
+BOX_GREEN = (60, 172, 44)
+BOX_BLUE = (58, 134, 255)
+BOX_BLACK = (30, 29, 46)
+BURPLE = (36, 55, 213)
